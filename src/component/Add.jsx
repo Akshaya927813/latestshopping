@@ -8,7 +8,7 @@ const Add = () => {
     backgroundSize: "cover",
     backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
-    height: "550px", // adjust as needed
+    height: "800px", // adjust as needed
     width: "100%",
   }}>  
         <Nav />
